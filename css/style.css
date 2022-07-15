@@ -1,0 +1,34 @@
+.main-div {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+}
+.main-div .alpha {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main-div .heading-line {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    margin: 0px;
+    padding-top: 15px;
+    background: #1F2937;
+    gap: 35pc;
+}
+.main-div .header {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.main-div .link {
+    margin-left: auto;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.main-div .link a {
+    margin: 12px;
+}

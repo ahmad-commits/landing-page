@@ -8,6 +8,7 @@
     flex-direction: column;
     align-items: center;
     gap: 10pc;
+    margin-bottom: 10pc;
 }
 .main-div .heading-line {
     display: flex;
@@ -74,5 +75,19 @@
     margin-left: 250px;
     padding-top: 90px;
     width: 400px;
+    text-align: center;
+
+}
+.main-div .beta {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.main-div .beta .beta-header {
+    margin-top: 50px;
+    font-family: roboto, sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
     text-align: center;
 }

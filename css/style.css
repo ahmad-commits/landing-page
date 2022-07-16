@@ -145,6 +145,7 @@
     padding: 50px;
     border-radius: 1pc;
     gap: 125px;
+    margin-bottom: 5pc;
 }
 .main-div .call-a, .call-b {
     font-family: sans-serif;
@@ -165,5 +166,13 @@
     font-family: sans-serif;
     font-size: 15px;
     border: 3px solid white;
-    border-radius: 5px;
+    border-radius: 6px;
+    text-align: center;
+}
+.footer {
+    display: block;
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 25px;
 }
